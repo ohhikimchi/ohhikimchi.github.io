@@ -4,12 +4,13 @@ body {
   color: blue;
 }
 
-td {
-  td height: 10px;
-  td width: 10px;
-  td border: 1px solid black; 
+image {
+  width: 300px;
+  height: 300px;
 }
 
-table {
-  width: 15px;
+table, td {
+  td height: 10px;
+  td width: 10px;
+  td border: 1px solid black;
 }
