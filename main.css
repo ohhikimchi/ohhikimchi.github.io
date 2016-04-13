@@ -1,3 +1,15 @@
 body {
+  font-family: Verdana;
+
   color: blue;
+}
+
+td {
+  td height: 10px;
+  td width: 10px;
+  td border: 1px solid black; 
+}
+
+table {
+  width: 15px;
 }
