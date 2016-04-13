@@ -4,11 +4,11 @@ body {
   color: blue;
 }
 
-image {
-  width: 150px;
-  height: 150px;
+img {
+	width:200px;
+	height:200px;
 }
 
 table, td {
-  
+	border: 1px, purple, dashed;
 }
